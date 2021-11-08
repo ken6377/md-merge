@@ -12310,6 +12310,3 @@ If you are onboarding to GitLab and will be working in the Data Program as an En
 1. Open a new issue in [GitLab Data Analytics](https://gitlab.com/gitlab-data/analytics/-/issues) with the `Data Onboarding` template.
 1. Give the issue a descriptive name: `Your Name - Data Onboarding`
 1. Assign the issue to your Manager to add/remove relevant content
-
-
-
