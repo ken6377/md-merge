@@ -3,4 +3,4 @@
 
 実行例:  python main.py /c/Users/hogehoge/Downloads/gehogeho
 
-サンプルの出力結果(merged.md)、PDF版(merged.pdf)も置いておきます。　※GitLab社データチームのハンドブック
+サンプルの出力結果(merged.md)、html版も置いておきます。　※GitLab社データチームのハンドブック
